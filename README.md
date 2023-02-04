@@ -52,7 +52,7 @@ This architecture will allow for seamless cross-chain swaps, with the use of sta
 
 ## 3. **Swaps**
 
-    The swap interface on Canswap's front end is designed to be user-friendly and intuitive for users of all experience levels. Here is an example of how the swap process might work from a user's perspective:
+The swap interface on Canswap's front end is designed to be user-friendly and intuitive for users of all experience levels. Here is an example of how the swap process might work from a user's perspective:
 
 1. The user navigates to the Canswap platform and connects to their web3 wallet.
 2. The user selects the assets they want to trade from the available options on the platform and enters the desired trade details, including the number of assets they want to trade and the assets they want to swap
