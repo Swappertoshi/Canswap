@@ -1,11 +1,12 @@
 
-**Canswap: A Cross-Chain AMM Swap**
+**Canswap: A Cross-Chain Swap Platform**
+v1.1
 
 swappertoshi 
 
 swappertoshi@protonmail.com
 
-www.canswap.org 
+www.canswap.org | www.canswap.com
 
 **Abstract** Canswap is a decentralized cross-chain swap platform that allows for the seamless trading of fungible tokens across multiple blockchains. Our solution addresses the current pain point faced by users who have to navigate through multiple chains and bridges in order to trade, incurring high gas fees and facing delays due to network congestion.
 
@@ -51,7 +52,7 @@ This architecture will allow for seamless cross-chain swaps, with the use of sta
 
 ## 3. **Swaps**
 
-The swap interface on Canswap's front end is designed to be user-friendly and intuitive for users of all experience levels. Here is an example of how the swap process might work from a user's perspective:
+    The swap interface on Canswap's front end is designed to be user-friendly and intuitive for users of all experience levels. Here is an example of how the swap process might work from a user's perspective:
 
 1. The user navigates to the Canswap platform and connects to their web3 wallet.
 2. The user selects the assets they want to trade from the available options on the platform and enters the desired trade details, including the number of assets they want to trade and the assets they want to swap
@@ -239,7 +240,7 @@ Q2:  Continuous improvement and development of new features based on community f
 
 
 
-10. **Business Model **
+# 10. **Business Model**
 
 Canswap will charge a transaction fee on the platform. The exact percentage of the fees will be published later based on community feedback. 
 
@@ -249,7 +250,7 @@ The fees generated on the platform will be utilised as follows:
 
 → **Operation cost**: 20% of the fees generated will be used for platform operations, including development, maintenance, and marketing.
 
-→** Safu Fund**: 10% of the fees generated will be used for a "safu" fund, which will be used to cover any potential losses or unexpected expenses.
+→ **Safu Fund**: 10% of the fees generated will be used for a "safu" fund, which will be used to cover any potential losses or unexpected expenses.
 
 → **Staking Rewards**: 5% of the fees generated will be used for staking rewards, encouraging users to hold and stake $CAN tokens to support the network.
 
@@ -261,7 +262,7 @@ The platform will also explore the use of Zero-knowledge technology to enhance p
 
 
 
-11. **Tokenomics**
+# 11. **Tokenomics**
 
 **$CAN token**
 
@@ -304,9 +305,22 @@ We’re raising a total of 333 $ETH for 500M $CAN tokens \
 
 **$CAN** **Liquidity**: 35% of the revenue made from the platform will be added to liquidity pools
 
-**References **
+# 12. **Disclaimer**
+This litepaper is a technical description of the Canswap platform and is not a formal offer to sell securities or a solicitation of an offer to buy securities. This document is provided for informational purposes only and does not constitute an offer or a recommendation to buy or sell any securities. The information contained in this document is not intended to be a complete description of the risks associated with investing in the Canswap platform. Any investment decision should be based on appropriate due diligence and research, and investment in the Canswap platform should only be made by individuals who understand the risks associated with such investments. The Canswap platform and its components are still in the development phase and are subject to change. The Canswap platform does not guarantee the performance or success of its services, and the information contained in this document is subject to change without notice.
+
+
+# References 
+
+“An overview on cross-chain: Mechanism, platforms, challenges and advances” by Wei Ou, Shiying Huang, Jingjing Zheng, Qionglu Zhang, Guang Zeng, Wenbao Han (https://www.sciencedirect.com/science/article/pii/S1389128622004121)
+
+“​​Research on Cross-chain Technology of Blockchain” by Shaofeng Lin, Yihan Kong, Shaotao Nie, Wenjia Xie, Jia Du (https://ieeexplore.ieee.org/document/9470331)
+
+“SoK: Communication Across Distributed Ledgers” by Alexei Zamyatin, Mustafa Al-Bassam3, Dionysis Zindros, Eleftherios Kokoris-Kogias5,9, Pedro Moreno-Sanchez, and Aggelos Kiayias and William J. Knottenbelt1 (https://eprint.iacr.org/2019/1128.pdf)
+
+“Uniswap v2 Core” by Hayden Adams, Noah Zinsmeister, Dan Robinson (https://uniswap.org/whitepaper.pdf) 
 
 
 
-* “An overview on cross-chain: Mechanism, platforms, challenges and advances” by Wei Ou, Shiying Huang, Jingjing Zheng, Qionglu Zhang, Guang Zeng, Wenbao Han ([https://www.sciencedirect.com/science/article/pii/S1389128622004121](https://www.sciencedirect.com/science/article/pii/S1389128622004121))
-* “​​Research on Cross-chain Technology of Blockchain” by Shaofeng Lin, Yihan Kong, Shaotao Nie, Wenjia Xie, Jia Du ([https://ieeexplore.ieee.org/document/9470331](https://ieeexplore.ieee.org/document/9470331))
+
+
+
