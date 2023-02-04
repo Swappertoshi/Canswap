@@ -311,13 +311,23 @@ This litepaper is a technical description of the Canswap platform and is not a f
 
 # References 
 
-“An overview on cross-chain: Mechanism, platforms, challenges and advances” by Wei Ou, Shiying Huang, Jingjing Zheng, Qionglu Zhang, Guang Zeng, Wenbao Han (https://www.sciencedirect.com/science/article/pii/S1389128622004121)
+ - “An overview on cross-chain: Mechanism, platforms, challenges and
+   advances” by Wei Ou, Shiying Huang, Jingjing Zheng, Qionglu Zhang,
+   Guang Zeng, Wenbao Han
+   (https://www.sciencedirect.com/science/article/pii/S1389128622004121)
+   
+  - “​​Research on Cross-chain Technology of Blockchain” by Shaofeng Lin,
+   Yihan Kong, Shaotao Nie, Wenjia Xie, Jia Du
+   (https://ieeexplore.ieee.org/document/9470331)
+   
+  - “SoK: Communication Across Distributed Ledgers” by Alexei Zamyatin,
+   Mustafa Al-Bassam3, Dionysis Zindros, Eleftherios Kokoris-Kogias5,9,
+   Pedro Moreno-Sanchez, and Aggelos Kiayias and William J. Knottenbelt1
+   (https://eprint.iacr.org/2019/1128.pdf)
+   
+  - “Uniswap v2 Core” by Hayden Adams, Noah Zinsmeister, Dan Robinson
+   (https://uniswap.org/whitepaper.pdf)
 
-“​​Research on Cross-chain Technology of Blockchain” by Shaofeng Lin, Yihan Kong, Shaotao Nie, Wenjia Xie, Jia Du (https://ieeexplore.ieee.org/document/9470331)
-
-“SoK: Communication Across Distributed Ledgers” by Alexei Zamyatin, Mustafa Al-Bassam3, Dionysis Zindros, Eleftherios Kokoris-Kogias5,9, Pedro Moreno-Sanchez, and Aggelos Kiayias and William J. Knottenbelt1 (https://eprint.iacr.org/2019/1128.pdf)
-
-“Uniswap v2 Core” by Hayden Adams, Noah Zinsmeister, Dan Robinson (https://uniswap.org/whitepaper.pdf) 
 
 
 
