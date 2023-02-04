@@ -20,7 +20,7 @@ Our platform aims to empower users to easily trade between different blockchains
 
 
 # Introduction 
-The world of blockchain finance and collectibles is rapidly evolving, with more and more assets being tokenized and traded on various networks. However, one limitation of this ecosystem is the siloed nature of different blockchains, which can make it difficult for users to access and trade a wide range of assets. Canswap, an idea first conceptualized in 2021, is here to change that. Our platform enables the swapping of different cryptocurrencies across multiple blockchains, providing users with greater flexibility and freedom in managing their assets. Whether you're looking to trade a popular ERC-20 token for a newer Binance Smart Chain asset or swap an NFT from one blockchain for another, Canswap makes it easy. With our cutting-edge multichain protocol and user-friendly interface, we're breaking down the barriers between blockchains and opening up a whole new world of possibilities for crypto enthusiasts and collectors alike.
+The world of blockchain finance and collectibles is rapidly evolving, with more and more assets being tokenized and traded on various networks. However, one limitation of this ecosystem is the siloed nature of different blockchains, which can make it difficult for users to access and trade a wide range of assets. Canswap, an idea first conceptualized in 2021, is here to change that. Our platform enables the swapping of different cryptocurrencies across multiple blockchains, providing users with greater flexibility and freedom in managing their assets. Whether you're looking to trade a popular ERC-20 token for a newer Polygon asset or swap an NFT from one blockchain for another, Canswap makes it easy. With our cutting-edge multichain protocol and user-friendly interface, we're breaking down the barriers between blockchains and opening up a whole new world of possibilities for crypto enthusiasts and collectors alike.
 
 # Transactions
 Canswap uses a multichain protocol to execute trades across multiple blockchains simultaneously. This approach allows for the efficient and cost-effective swapping of different cryptocurrencies.
@@ -69,7 +69,7 @@ The user receives the assets they requested in the trade and can view the transa
 
 Throughout the entire process, the user experience is the same, regardless of which blockchain the assets are on. The user can trade different assets across multiple blockchains seamlessly, with no need to navigate through multiple blockchains and bridges.
 
-Incentives 
+# Incentives 
 There are several different types of stakeholders in the Canswap ecosystem, and each one has its own set of incentives for participating in the platform. Here are a few examples:
 
 → Users: Users are the primary stakeholders in Canswap, and they stand to benefit from the platform's ability to facilitate seamless trading of assets across multiple blockchains. They can trade different assets across multiple blockchains seamlessly, with no need to navigate through multiple blockchains and bridges, they can also benefit from the lower gas fees and faster transactions that the platform offers.
@@ -82,7 +82,7 @@ There are several different types of stakeholders in the Canswap ecosystem, and 
 
 → Token holders: Token holders of Canswap are incentivized to hold the token, as they can use it to vote on proposals to improve the platform and also they can get discounts on trading fees.
 
-Supported Chains
+# Supported Chains
 
 Our platform is built on the Ethereum network and is compatible with all top EVM-compatible blockchains.
 
@@ -90,14 +90,22 @@ The multichain protocol that we use enables the execution of trades across multi
 
 We support the following blockchains:
 
-Ethereum 
+Ethereum
+
 Polygon 
+
 Arbitrum
+
 Gnosis
+
 Avalanche
+
 Solana 
+
 Phantom 
+
 BNBChain
+
 and more
 
 By supporting these blockchains, we are providing our users with access to a wide range of assets and the ability to trade them with ease. Our platform will continue to support new blockchains as they come online, providing users with even more options and flexibility.
@@ -106,7 +114,7 @@ In addition, our smart contract-based trading system is designed to handle the i
 
 In summary, Canswap's multichain protocol and smart contract-based trading system allow for the seamless and efficient trading of assets across multiple blockchains, including Ethereum, Polygon, Arbitrum, Gnosis, Avalanche, Solana, Phantom, and more.
 
-Zk Research For Implementation 
+# Zk Research For Implementation 
 Canswap is actively researching on Zero-knowledge proofs like ZkEVM by Polygon, etc. to explore the potential use cases of zk technology and enhance privacy and security for the users of the platform. 
 
 → implementation of privacy-preserving atomic swaps: With zk-atomic swaps, users can trade assets without revealing their identities or the details of the trade to the network. This can help to protect users' privacy and prevent front-running.
@@ -203,21 +211,35 @@ The platform will also explore the use of Zero-knowledge technology to enhance p
 # Tokenomics
 
 **$CAN token**
+
 Network: Ethereum
+
 Standard: ERC20
+
 Token Type: Utility
+
 Total supply: 1.000.000.000
+
 Public Sale: 500.000.000 (50%)
+
 Liquidity & Exchanges: 150.000.000 (15%)
+
 Marketing: 100.000.000 (10%)
+
 Platform Incentives, Staking & Farming: 50.000.000 (5%)
+
 Treasury: 150.000.000 (15%)
+
 Team: 50.000.000 (5%)
 
 
+
 We will raise a total of $500.000 at an FDV of $1.000.000 and lock 60% ($300.000) in liquidity
+
 1 $CAN in public sale = $0.001
+
 1 ETH (at $1500) = 1.500.000 $CAN
+
 
 We’re raising a total of 333 $ETH for 500M $CAN tokens
 
